@@ -1,0 +1,13 @@
+Chute;0;[]
+Seba;0;[]
+Juanse;0;[]
+Chute;200;lona
+Seba;500;comida
+Chute;1200;asado
+Juanse;50;cigarros
+Seba;1400;carpa
+Seba;2600;escabio
+Seba;4700;alcohol
+Seba;9400;nafta
+Juanse;3050;arreglo
+Seba;18800;varios
